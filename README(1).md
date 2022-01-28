@@ -16,7 +16,7 @@ This is the one and only official W2HBot Userbot made by @David99q. Don't forget
 
 <h3> DEPLOY TO HEROKU </h3>
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KaalMous/KGFBOT)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/RAVANOPBOT)
 
 <h3> StringSession </h3>
 
